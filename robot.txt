@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bolasport.github.io/Berita/sitemap.xml
